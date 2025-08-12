@@ -1,6 +1,6 @@
 # 📌 Gerenciador de Tarefas Sustentacao ME
 
-API REST para gerenciamento de tarefas, desenvolvida em **C#** com **.NET 8**, usando **Entity Framework Core** e documentada com **Swagger**.
+Para o desafio da vaga backend sustentação, criei essa API REST para gerenciamento de tarefas, desenvolvida em **C#** com **.NET 8**, usando **Entity Framework Core** para comunicação com o sql e  **Swagger**. Procurei ser organizado e utilizar solid em camadas para deixar o código limpo, visando as complexas camadas que o time deve trabalhar no dia a dia.
 
 ---
 
